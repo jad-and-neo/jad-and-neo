@@ -87,6 +87,6 @@
     &copy; 2025 Jad & Neo | Made with 💡 by Jad  
   </footer>  
 </body>  
-</html>  https://jad-and-neo.github.io/jad-neo-3d.printed-gifts and toys/
-add to those code so i can add products
+</html>  https://jad-and-neo.github.io/jad-neo-website/
+
 
