@@ -88,5 +88,5 @@
   </footer>  
 </body>  
 </html>  https://jad-and-neo.github.io/jad-neo-website/
-
+<p>20% your first order and 50 % on orders over 200 dollars </p>
 
