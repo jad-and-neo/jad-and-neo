@@ -78,7 +78,7 @@
 
 <a href="https://wa.me/9613422883" class="button" target="_blank" rel="noopener noreferrer">💬 Message Me on WhatsApp</a>
 
-<a href="#" class="button disabled" tabindex="-1" aria-disabled="true">❓ Who is Neo? (Coming Soon...)</a>
+<a href="#" class="button disabled" tabindex="-1" aria-disabled="true">❓ Who is Neo? (Coming Soon on my channel on facebook...)</a>
 
   <div class="countdown">  
     🔒 Neo will be revealed after <strong>100 orders!</strong><br>  
